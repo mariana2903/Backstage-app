@@ -12,6 +12,8 @@ npx @backstage/create-app@latest
 ```
 como na imagem a seguir
 
+<img src="./Assets/create.jpeg">
+
 Depois é necessário rodar os comandos
 
 - yarn install
@@ -19,7 +21,7 @@ Depois é necessário rodar os comandos
 
 É necessário também o comando de build final 
 
-![image](https://github.com/mariana2903/Backstage-app/assets/99264876/8ec177ff-44c3-42b5-b989-e341296f2a80)
+<img src="./Assets/comandos.jpeg">
 
 seguindo os demais passos dessa etapa, será concluído o build da imagem em docker 
 
@@ -29,12 +31,9 @@ Depois disso é necessário fazer o setup do Frontend, que vai ser uma diferente
 
 O resultado final com as funcionalidade rodando está a seguir: 
 
-![image](https://github.com/mariana2903/Backstage-app/assets/99264876/5c1649da-2b57-4102-90ec-acdee05208c1)
+<img src="./Assets/authenticator.jpeg">
 
-![image](https://github.com/mariana2903/Backstage-app/assets/99264876/cf57c8de-0683-43b5-a187-ee9d74b9c570)
-
-
-
+<img src="./Assets/catalago.jpeg">
 
  ## Tecnologias utilizadas
 
